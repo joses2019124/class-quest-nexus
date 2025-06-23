@@ -154,7 +154,7 @@ export const AppSidebar: React.FC<AppSidebarProps> = ({ currentView, onViewChang
                   </SidebarMenuButton>
                 </SidebarMenuItem>
               </SidebarMenu>
-            </SidebarGroup>
+            </SidebarGroupContent>
           </SidebarGroup>
         )}
       </SidebarContent>
