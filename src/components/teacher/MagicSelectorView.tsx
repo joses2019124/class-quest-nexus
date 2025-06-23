@@ -16,7 +16,8 @@ import {
   Zap,
   Heart,
   Sword,
-  Plus
+  Plus,
+  Clock
 } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 
